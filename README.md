@@ -39,9 +39,10 @@ CarImport — полноценный pet-project, разработанный с 
 
 ## 🚗 CarImport — Pet Project (Nuxt 4 + TypeScript + FSD Architecture) | ENG
 
-
 <img src="./public/img/main.png" width="100%" alt="Project photo">
-
+<img src="./public/img/main2.png" width="100%" alt="Project photo2">
+<img src="./public/img/main3.png" width="100%" alt="Project photo3">
+<img src="./public/img/main4.png" width="100%" alt="Project photo4">
 
 # 🧾 Project Description
 
