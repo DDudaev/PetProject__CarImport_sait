@@ -2,6 +2,9 @@
 
 
 <img src="./public/img/main.png" width="100%" alt="Project photo">
+<img src="./public/img/main2.png" width="100%" alt="Project photo2">
+<img src="./public/img/main3.png" width="100%" alt="Project photo3">
+<img src="./public/img/main4.png" width="100%" alt="Project photo4">
 
 
 # 🧾 Описание проекта
