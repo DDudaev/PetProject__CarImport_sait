@@ -1,0 +1,1 @@
+export { default as threeComponent } from './ui.vue'

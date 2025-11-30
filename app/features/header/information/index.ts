@@ -1,0 +1,1 @@
+export { default as informationLocationAndPhone } from './ui.vue'

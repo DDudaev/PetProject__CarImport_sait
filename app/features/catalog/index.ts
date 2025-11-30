@@ -1,0 +1,1 @@
+export { default as catalogCard } from './ui.vue' 

@@ -1,0 +1,1 @@
+export { default as firstComponentsWidgets } from './ui.vue'

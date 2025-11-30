@@ -1,0 +1,23 @@
+@import "./reset.css";
+
+
+:root {
+  
+  --main-page-background: #f0f0f0;
+  --headerWidget-color: #353535;
+  --headerText-color: #f0f0f0;
+  --headerText-Mobile-color: #333333;
+  --headerText-color-borderBottom: #f0f0f0;
+
+  --barMenuWidget-color: #61b5ff;
+
+  --firstComponent-backgroundColor: #353535;
+  --threeComponent-backgroundCOlor: #353535;
+  --fourComponent-backgroundCOlor: #f0f0f0;
+
+
+  --footerWidget-color: #444444;
+
+}
+
+/* blue: 61b5ff | gray: 353535 */

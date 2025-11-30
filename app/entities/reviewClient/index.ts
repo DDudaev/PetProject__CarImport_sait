@@ -1,0 +1,1 @@
+export { default as reviewClient } from './ui.vue'

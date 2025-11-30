@@ -1,0 +1,1 @@
+export { default as reviewLenta } from './ui.vue'

@@ -1,0 +1,1 @@
+export { default as twoComponent } from './ui.vue'
